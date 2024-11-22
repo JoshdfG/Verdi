@@ -65,7 +65,7 @@ const Stats = () => {
               Total Users
             </h1>
             <p className="text-color2 text-xs text-center">
-              Number of Users enrolled
+              Number of Users onboarded
             </p>
           </div>
 

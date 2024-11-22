@@ -12,8 +12,8 @@ const options: ApexOptions = {
   labels: [
     "Total Campaigns Created",
     "Total Organisations",
-    "Total Students",
-    "Total Mentors",
+    "Total Users/contributors",
+    "Total Staffs",
     "Total Campaign Attended",
     "Total NFTs Minted",
   ],
